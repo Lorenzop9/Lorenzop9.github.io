@@ -1,3 +1,29 @@
-p {
+h1 {
+  color: blue;
+  font-family: verdana;
+}
+
+
+
+#id1 {
   color:red;
 }
+
+#id2 {
+  color:yellow;
+}
+
+.center {
+  text-align: center;
+  color: green;
+  font-family: Comic;
+}
+
+.purple {
+  color: purple;
+  font-size: 100px;
+}
+
+
+
+
