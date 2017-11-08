@@ -1,0 +1,66 @@
+.fontbody {
+  font-family: Arial;
+  background-color: pink;
+  
+}
+
+.tablestyle {
+  border: 1px solid black;
+  background-color: yellow;
+  
+}
+
+table, th, td {
+  border: 1px solid black;
+  background-color: yellow;
+}
+
+table {
+  width: 150%;
+}
+
+h1 {
+  text-align: center;
+}
+
+h1 {
+  background-color: darkblue;
+  color: white;
+  
+}
+
+h2 {
+  background-color: darkblue;
+  color: white;
+
+}
+
+h3 {
+  border-left: 10px solid yellow;
+}
+
+
+.textexample {
+  font: italic 18px courier ;
+  padding: 25px;
+  text-align: center;
+  background-color: white;
+  border-left: 7px darkblue;
+}
+
+
+
+.textdisplay {
+  font-style: italic;
+  font-size: 18px;
+  font-family: Courier;
+  padding: 25px;
+  text-align: center;
+  background-color: white;
+  color: black;
+}
+
+
+
+
+
