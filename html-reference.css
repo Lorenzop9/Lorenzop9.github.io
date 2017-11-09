@@ -1,18 +1,18 @@
 .fontbody {
   font-family: Arial;
-  background-color: pink;
+  background-color: lightblue;
   
 }
 
 .tablestyle {
   border: 1px solid black;
-  background-color: yellow;
+  background-color: lightgrey;
   
 }
 
 table, th, td {
   border: 1px solid black;
-  background-color: yellow;
+  background-color: lightgrey;
 }
 
 
@@ -33,7 +33,7 @@ h2 {
 }
 
 h3 {
-  border-left: 10px solid yellow;
+  border-left: 10px solid blue;
 }
 
 
