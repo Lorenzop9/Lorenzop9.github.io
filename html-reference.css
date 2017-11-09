@@ -6,13 +6,10 @@
 
 .tablestyle {
   border: 1px solid black;
-  background-color: lightgrey;
-  
 }
 
 table, th, td {
   border: 1px solid black;
-  background-color: grey;
   font: bold 15px Arial;
 }
 
