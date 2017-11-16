@@ -2,45 +2,61 @@
     box-sizing: border-box;
 }
 
+
 body {
   margin: 0;
+  padding; 20;
+}
+
+
+html { 
+  background: url(https://images-na.ssl-images-amazon.com/images/I/71t9j%2BuDRsL._SY355_.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 /* Style the header */
 .header {
-    background-color: #f1f1f1;
+    background-color: orange;
     padding: 20px;
     text-align: center;
 }
 
+
+
 /* Style the top navigation bar */
 .topnav {
     overflow: hidden;
-    background-color: #333;
+    background-color: darkblue;
+    text-align: center;
 }
 
 /* Style the topnav links */
 .topnav a {
     float: left;
     display: block;
-    color: #f2f2f2;
+    color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 18px 25px;
     text-decoration: none;
+    font-size: 16px;
 }
 
 /* Change color on hover */
 .topnav a:hover:not(.active) {
-    background-color: #ddd;
-    color: black;
+    background-color: black;
+    color: white;
 }
 
 /* indicate active page on nav */
 #activepage {
-    background-color: #4CAF50;
+    background-color: orange;
 }
 
-/* A - Create three unequal columns that floats next to each other */
+
+
 .column {
     float: left;
     padding: 10px;
@@ -48,12 +64,12 @@ body {
 
 /* Left and right column */
 .column.side {
-    width: 25%;
+    width: 27%;
 }
 
 /* Middle column */
 .column.middle {
-    width: 50%;
+    width: 46%;
 }
 
 /* Clear floats after the columns */
@@ -70,9 +86,34 @@ body {
     }
 }
 
+
+
+h1 {
+  color: darkblue;
+  font-size: 32px;
+}
+
+h2 {
+  color: darkblue;
+  font-size: 22px;
+  text-align: center;
+}
+
+p {
+  font-size: 16px ;
+}
+
+.parabackground {
+  background-color: lightgray;
+  padding: 17px;
+}
+
+
+
 /* Style the footer */
 .footer {
-    background-color: #f1f1f1;
+    background-color: orange;
     padding: 10px;
     text-align: center;
+    color: darkblue;
 }
