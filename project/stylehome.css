@@ -1,3 +1,4 @@
+
 * {
     box-sizing: border-box;
 }
@@ -5,12 +6,11 @@
 
 body {
   margin: 0;
-  padding; 20;
 }
 
 
 html { 
-  background: url(https://images-na.ssl-images-amazon.com/images/I/71t9j%2BuDRsL._SY355_.jpg) no-repeat center center fixed; 
+  background: url(https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-392151.png) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -64,12 +64,12 @@ html {
 
 /* Left and right column */
 .column.side {
-    width: 27%;
+    width: 25%;
 }
 
 /* Middle column */
 .column.middle {
-    width: 46%;
+    width: 50%;
 }
 
 /* Clear floats after the columns */
